@@ -81,6 +81,8 @@ python3 bot.py
 </a>
 </p>
 </details>
+
+
 ## Commands
 ```
 • /logs - to get the rescent errors
