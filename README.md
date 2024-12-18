@@ -77,7 +77,7 @@ python3 bot.py
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<img src="[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Youu460/Comming-&branch=main&name=messi_6071)" alt="Deploy">
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Youu460/Comming-&branch=main&name=messi_6071)
 </a>
 </p>
 </details>
