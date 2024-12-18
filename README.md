@@ -75,13 +75,7 @@ python3 bot.py
 </p>
 </details>
 <details><summary>Deploy To Koyeb</summary>
-<p>
-<br>
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Youu460/Comming-&branch=main&name=messi_6071)
-</a>
-</p>
-</details>
-
 
 ## Commands
 ```
